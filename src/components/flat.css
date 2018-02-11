@@ -1,0 +1,15 @@
+.flat {
+    flex-basis: 45%;
+    margin: 10px;
+}
+
+.flat-picture {
+    height: 200px;
+    background-size: cover;
+    background-position: center;
+}
+
+.flat-title {
+    margin-top: 10px;
+    font-weight: bold;
+}
